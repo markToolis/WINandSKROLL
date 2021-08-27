@@ -1,2 +1,2 @@
 # WINandSKROLL
-open site: 
+open site in GitHub pages: https://marktoolis.github.io/WINandSKROLL/ 
